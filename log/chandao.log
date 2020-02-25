@@ -62,3 +62,11 @@
 2020-02-25 18:00:51,291 INFO [root] [base_example.py (base_input_text:33] - 正在输入
 2020-02-25 18:00:51,312 INFO [root] [base_example.py (base_find_element:22] - 正在定位元素('css selector', '#submit')
 2020-02-25 18:00:51,403 INFO [root] [base_example.py (base_click_element:37] - 正在点击
+2020-02-25 19:47:24,329 INFO [root] [base_example.py (base_find_element:22] - 正在定位元素('link text', '测试甲')
+2020-02-25 19:47:24,503 INFO [root] [base_example.py (base_click_element:37] - 正在点击
+2020-02-25 19:47:24,549 INFO [root] [base_example.py (base_find_element:22] - 正在定位元素('css selector', '#submit')
+2020-02-25 19:47:24,672 INFO [root] [base_example.py (base_click_element:37] - 正在点击
+2020-02-25 19:47:25,407 INFO [root] [base_example.py (base_find_element:22] - 正在定位元素('css selector', "[data-id='qa']")
+2020-02-25 19:47:26,106 INFO [root] [base_example.py (base_click_element:37] - 正在点击
+2020-02-25 19:47:26,119 INFO [root] [base_example.py (base_find_element:22] - 正在定位元素('css selector', "[data-id='bug']")
+2020-02-25 19:47:26,322 INFO [root] [base_example.py (base_click_element:37] - 正在点击

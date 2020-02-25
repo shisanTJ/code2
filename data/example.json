@@ -2,25 +2,7 @@
   {
     "case": "create_bug",
     "desc": "create_bug",
-    "bug_title": "测试缺陷_拒绝6",
-    "expect": "保存成功"
-  },
-  {
-    "case": "create_bug",
-    "desc": "create_bug",
-    "bug_title": "测试缺陷_延期6",
-    "expect": "保存成功"
-  },
-  {
-    "case": "create_bug",
-    "desc": "create_bug",
-    "bug_title": "测试缺陷_通过6",
-    "expect": "保存成功"
-  },
-  {
-    "case": "create_bug",
-    "desc": "create_bug",
-    "bug_title": "测试缺陷_激活6",
+    "bug_title": "十三画一个我6",
     "expect": "保存成功"
   }
 ]
