@@ -1,0 +1,9 @@
+test_create_bug_0____6 (case.test01_example.TestLoginCreateBug) ... ok
+test_create_bug_1____6 (case.test01_example.TestLoginCreateBug) ... ok
+test_create_bug_2____6 (case.test01_example.TestLoginCreateBug) ... ok
+test_create_bug_3____6 (case.test01_example.TestLoginCreateBug) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 40.249s
+
+OK
